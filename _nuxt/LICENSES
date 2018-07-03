@@ -4,6 +4,12 @@
  * Released under the MIT License.
  */
 
+/*!
+ * vue-resource v1.5.1
+ * https://github.com/pagekit/vue-resource
+ * Released under the MIT License.
+ */
+
 /**
  * vuex v3.0.1
  * (c) 2017 Evan You
@@ -35,3 +41,9 @@ object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/**
+  * vee-validate v2.1.0-beta.5
+  * (c) 2018 Abdelrahman Awad
+  * @license MIT
+  */
